@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from dbConnect import dbConnect
 
-'整理推荐商品需要的数据类'
+# '整理推荐商品需要的数据类'
 
 
 class dataCollation(object):
