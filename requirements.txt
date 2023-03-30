@@ -5,6 +5,6 @@ itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
 PyMySQL==0.7.11
-redis==2.10.6
+redis==4.5.4
 SQLAlchemy==1.1.13
 Werkzeug==0.12.2
