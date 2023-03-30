@@ -7,4 +7,4 @@ MarkupSafe==1.0
 PyMySQL==0.7.11
 redis==4.5.4
 SQLAlchemy==1.1.13
-Werkzeug==0.12.2
+Werkzeug==2.2.3
